@@ -32,10 +32,10 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 
 ### **Key Components**
 
-- **•	Seeed Studio XIAO ESP32C3 Microcontroller**: Central processing and communication hub.
-- **•	A9G GSM/GPRS + GPS Module**: Provides location positioning and cellular connectivity.
+- **Seeed Studio XIAO ESP32C3 Microcontroller**: Central processing and communication hub.
+- **A9G GSM/GPRS + GPS Module**: Provides location positioning and cellular connectivity.
 - **3.7V 1000mAh Li-Po Battery**: Optimizes battery life and incorporates low-power operation modes.
-- **•	Tactile SOS Button (SMD)**: Long-press trigger for distress signals and calls.
+- **Tactile SOS Button (SMD)**: Long-press trigger for distress signals and calls.
 - **Mini SPDT Slide Switch**: Turn ON/OFF Device.
 
 ### **Device Enclosures**
@@ -65,6 +65,14 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 ## System Flowchart
 
 <img width="2848" height="1399" alt="Software Flowchart-2025-04-19-124629" src="https://github.com/user-attachments/assets/fadae3f9-efc1-46e7-b201-e14bdf4c4fb8" />
+
+## System Workflow
+
+<img width="1060" height="601" alt="Steps" src="https://github.com/user-attachments/assets/c1eae50d-46c1-4791-9446-ab0a6f3a4220" />
+
+## Video Demonstration
+
+[![Watch Video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://youtu.be/oVxxKt-42K8?si=YZpx2336I1ODqVJx))]
 
 ## **Intellectual Property & Security Compliance**
 
