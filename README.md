@@ -67,7 +67,7 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 
 ## Video Demonstration
 
-[![Watch Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/oVxxKt-42K8?si=YZpx2336I1ODqVJx))
+[Watch Video](https://youtu.be/oVxxKt-42K8?si=YZpx2336I1ODqVJx)
 
 ## **Intellectual Property & Security Compliance**
 
