@@ -47,6 +47,10 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 |---------------------------------|---------------------------------|--------------------------------|
 | <img src="https://github.com/user-attachments/assets/ebb0fb5e-1937-4c64-be65-cbd5b3d54319" width="600" /> | <img src="https://github.com/user-attachments/assets/e8ade32e-bfb2-4448-83ac-c7a394b3db7c" width="800" /> | <img src="https://github.com/user-attachments/assets/6414d0e8-7d10-4ceb-b362-5e7b83193a11" width="800" /> |
 
+## Video Demonstration
+
+[Watch Video](https://youtu.be/oVxxKt-42K8?si=YZpx2336I1ODqVJx)
+
 ## System Workflow
 
 <p align="center">
@@ -67,12 +71,7 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 |----------------|------------------------|--------------|-----------------------|----------------|
 | <img width="988" height="581" alt="image" src="https://github.com/user-attachments/assets/1806fe6e-de6d-4f92-a9a9-e9e993fc7e5e" /> | <img width="1280" height="699" alt="image" src="https://github.com/user-attachments/assets/cbb76c29-6843-49d5-8b6d-7e06a54e3d0b" /> | <img width="1037" height="474" alt="image" src="https://github.com/user-attachments/assets/7334909e-fa81-4632-ab93-d55181566197" /> | <img width="1070" height="608" alt="image" src="https://github.com/user-attachments/assets/58596665-4417-4fc3-9bdd-add7bbef930c" /> | <img width="887" height="497" alt="image" src="https://github.com/user-attachments/assets/78b91db2-d2d7-4b08-801a-10f6bea56964" /> |
 
-## Video Demonstration
-
-[Watch Video](https://youtu.be/oVxxKt-42K8?si=YZpx2336I1ODqVJx)
-
-
-## Media Feature
+## Achievement
 
 <p align="center">
   <img width="500" alt="image" src="https://github.com/user-attachments/assets/4f56b704-89b4-4131-abef-e71c791c3501" />
