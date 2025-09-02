@@ -18,9 +18,7 @@ The system transcends smartphone limitations by offering:
 - Battery monitoring with warning alerts for low power.
 - Secure, easy-to-access parental dashboard built on MERN stack for live tracking, location history, and emergency management.
 
-**BAAL KAVACH** seamlessly fits into daily child accessories like school bags and aligns with school policies, delivering practical, secure, and scalable safety monitoring for families.
-
-<img width="400" alt="main_banner_bg_sm" src="https://github.com/user-attachments/assets/7d623bf4-4066-4fc6-b8f2-ac7775327339" />
+<img align='center' width="400" alt="main_banner_bg_sm" src="https://github.com/user-attachments/assets/7d623bf4-4066-4fc6-b8f2-ac7775327339" />
 
 By embedding the device into everyday child accessories like school bags, **BAAL KAVACH** provides a practical, scalable, and privacy-conscious child safety platform uniquely suited to Indian families and school environments.
 
