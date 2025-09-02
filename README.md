@@ -21,7 +21,7 @@ The system transcends smartphone limitations by offering:
 <br>
 
 <p align="center">
-  <img width="2500" height="1399" alt="Software Flowchart-2025-04-19-124629" src="https://github.com/user-attachments/assets/fadae3f9-efc1-46e7-b201-e14bdf4c4fb8" />
+  <img width="800" alt="Software Flowchart-2025-04-19-124629" src="https://github.com/user-attachments/assets/fadae3f9-efc1-46e7-b201-e14bdf4c4fb8" />
   </p>
 
 <br> 
@@ -75,7 +75,7 @@ This project is currently under Intellectual Property Rights (IPR) application; 
 
 ## Media Feature
 
-![BAAL KAVACH Newspaper Feature](![Divya Bhaskar](https://github.com/user-attachments/assets/163bb2be-76fc-4764-b28c-f0c1dbbd0ab0))
+![Newspaper-2](https://github.com/user-attachments/assets/61fb0ec8-bfdf-45d3-b481-96ed4cb1cea6)
 
 *BAAL KAVACH covered in [Divya Bhaskar], highlighting the innovation in child safety technology and community impact.*
 
