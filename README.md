@@ -42,14 +42,14 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 
 - **Screw-Mounted Variant**: Anti-tampering design ideal for young children
 - **Portable Variant**: Lightweight, discreet, suitable for older kids
-  
-| Front View                       | Back View                        | Side View                       |
-|---------------------------------|---------------------------------|--------------------------------|
-| <img src="https://github.com/user-attachments/assets/ebb0fb5e-1937-4c64-be65-cbd5b3d54319" width="600" /> | <img src="https://github.com/user-attachments/assets/e8ade32e-bfb2-4448-83ac-c7a394b3db7c" width="800" /> | <img src="https://github.com/user-attachments/assets/6414d0e8-7d10-4ceb-b362-5e7b83193a11" width="800" /> |
 
 ## Video Demonstration
 
 [Watch Video](https://youtu.be/oVxxKt-42K8?si=YZpx2336I1ODqVJx)
+  
+| Front View                       | Back View                        | Side View                       |
+|---------------------------------|---------------------------------|--------------------------------|
+| <img src="https://github.com/user-attachments/assets/ebb0fb5e-1937-4c64-be65-cbd5b3d54319" width="600" /> | <img src="https://github.com/user-attachments/assets/e8ade32e-bfb2-4448-83ac-c7a394b3db7c" width="800" /> | <img src="https://github.com/user-attachments/assets/6414d0e8-7d10-4ceb-b362-5e7b83193a11" width="800" /> |
 
 ## System Workflow
 
