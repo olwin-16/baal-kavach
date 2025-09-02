@@ -21,7 +21,7 @@ The system transcends smartphone limitations by offering:
 <br>
 
 <p align="center">
-  <img width="500" alt="main_banner_bg_sm - Copy" src="https://github.com/user-attachments/assets/7b04eb74-2e59-429e-9d46-50e7fcf9d06b" />
+  <img width="2848" height="1399" alt="Software Flowchart-2025-04-19-124629" src="https://github.com/user-attachments/assets/fadae3f9-efc1-46e7-b201-e14bdf4c4fb8" />
   </p>
 
 <br> 
@@ -47,6 +47,9 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 |---------------------------------|---------------------------------|--------------------------------|
 | <img src="https://github.com/user-attachments/assets/ebb0fb5e-1937-4c64-be65-cbd5b3d54319" width="600" /> | <img src="https://github.com/user-attachments/assets/e8ade32e-bfb2-4448-83ac-c7a394b3db7c" width="800" /> | <img src="https://github.com/user-attachments/assets/6414d0e8-7d10-4ceb-b362-5e7b83193a11" width="800" /> |
 
+## System Workflow
+
+<img width="1060" height="601" alt="Steps" src="https://github.com/user-attachments/assets/c1eae50d-46c1-4791-9446-ab0a6f3a4220" />
 
 ## **Software Architecture (MERN Stack Web Portal)**
 
@@ -62,18 +65,24 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 |----------------|------------------------|--------------|-----------------------|----------------|
 | <img width="988" height="581" alt="image" src="https://github.com/user-attachments/assets/1806fe6e-de6d-4f92-a9a9-e9e993fc7e5e" /> | <img width="1280" height="699" alt="image" src="https://github.com/user-attachments/assets/cbb76c29-6843-49d5-8b6d-7e06a54e3d0b" /> | <img width="1037" height="474" alt="image" src="https://github.com/user-attachments/assets/7334909e-fa81-4632-ab93-d55181566197" /> | <img width="1070" height="608" alt="image" src="https://github.com/user-attachments/assets/58596665-4417-4fc3-9bdd-add7bbef930c" /> | <img width="887" height="497" alt="image" src="https://github.com/user-attachments/assets/78b91db2-d2d7-4b08-801a-10f6bea56964" /> |
 
-## System Flowchart
-
-<img width="2848" height="1399" alt="Software Flowchart-2025-04-19-124629" src="https://github.com/user-attachments/assets/fadae3f9-efc1-46e7-b201-e14bdf4c4fb8" />
-
-## System Workflow
-
-<img width="1060" height="601" alt="Steps" src="https://github.com/user-attachments/assets/c1eae50d-46c1-4791-9446-ab0a6f3a4220" />
-
 ## Video Demonstration
 
-[![Watch Video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://youtu.be/oVxxKt-42K8?si=YZpx2336I1ODqVJx))]
+[![Watch Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/oVxxKt-42K8?si=YZpx2336I1ODqVJx))
 
 ## **Intellectual Property & Security Compliance**
 
 This project is currently under Intellectual Property Rights (IPR) application; source code and schematics are confidential and withheld from public release to protect inventive methods and system security.
+
+## Media Feature
+
+![BAAL KAVACH Newspaper Feature](![Divya Bhaskar](https://github.com/user-attachments/assets/163bb2be-76fc-4764-b28c-f0c1dbbd0ab0))
+
+*BAAL KAVACH covered in [Divya Bhaskar], highlighting the innovation in child safety technology and community impact.*
+
+## Contact
+
+For questions, feedback, or collaboration inquiries regarding the BAAL KAVACH project, please reach out:
+
+**Email**: baalkavach@gmail.com
+
+Feel free to open issues or discussions on this repository for project-related topics.
