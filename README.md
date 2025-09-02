@@ -75,10 +75,10 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 ## Media Feature
 
 <p align="center">
-  <img width="800" alt="image" src="https://github.com/user-attachments/assets/4f56b704-89b4-4131-abef-e71c791c3501" />
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/4f56b704-89b4-4131-abef-e71c791c3501" />
   </p>
 
-*BAAL KAVACH covered in [Divya Bhaskar], highlighting the innovation in child safety technology and community impact.*
+*BAAL KAVACH covered in **Divya Bhaskar**, highlighting the innovation in child safety technology and community impact.*
 
 ## **Intellectual Property & Security Compliance**
 
