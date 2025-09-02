@@ -71,17 +71,18 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 
 [Watch Video](https://youtu.be/oVxxKt-42K8?si=YZpx2336I1ODqVJx)
 
-## **Intellectual Property & Security Compliance**
-
-This project is currently under Intellectual Property Rights (IPR) application; source code and schematics are confidential and withheld from public release to protect inventive methods and system security.
 
 ## Media Feature
 
 <p align="center">
-  <img width="800" alt="Software Flowchart-2025-04-19-124629" src="![Newspaper-2](https://github.com/user-attachments/assets/75c71354-28bc-4380-a788-86354b498f79)" />
+  <img width="800" alt="image" src="https://github.com/user-attachments/assets/4f56b704-89b4-4131-abef-e71c791c3501" />
   </p>
 
 *BAAL KAVACH covered in [Divya Bhaskar], highlighting the innovation in child safety technology and community impact.*
+
+## **Intellectual Property & Security Compliance**
+
+This project is currently under Intellectual Property Rights (IPR) application; source code and schematics are confidential and withheld from public release to protect inventive methods and system security.
 
 ## Contact
 
