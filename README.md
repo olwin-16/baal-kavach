@@ -49,7 +49,7 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 
 ## System Workflow
 
-<img width="1060" height="601" alt="Steps" src="https://github.com/user-attachments/assets/c1eae50d-46c1-4791-9446-ab0a6f3a4220" />
+<img width="800" alt="Steps" src="https://github.com/user-attachments/assets/c1eae50d-46c1-4791-9446-ab0a6f3a4220" />
 
 ## **Software Architecture (MERN Stack Web Portal)**
 
@@ -75,7 +75,7 @@ This project is currently under Intellectual Property Rights (IPR) application; 
 
 ## Media Feature
 
-![Newspaper-2](https://github.com/user-attachments/assets/61fb0ec8-bfdf-45d3-b481-96ed4cb1cea6)
+![Newspaper-2](https://github.com/user-attachments/assets/5d4d7d16-9cb0-45da-9706-b7c5ec93cb6c)
 
 *BAAL KAVACH covered in [Divya Bhaskar], highlighting the innovation in child safety technology and community impact.*
 
