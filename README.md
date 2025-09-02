@@ -18,7 +18,11 @@ The system transcends smartphone limitations by offering:
 - Battery monitoring with warning alerts for low power.
 - Secure, easy-to-access parental dashboard built on MERN stack for live tracking, location history, and emergency management.
 
-<img width="2366" height="848" alt="main_banner_bg" src="https://github.com/user-attachments/assets/f09aa5c1-8d6e-48b9-b1df-18b842c5d9ec" />
+<br>
+
+<p align="center">
+  <img width="993" height="1041" alt="main_banner_bg_sm - Copy" src="https://github.com/user-attachments/assets/7b04eb74-2e59-429e-9d46-50e7fcf9d06b" />
+  </p>
 
 <br> 
 
