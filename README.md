@@ -80,8 +80,10 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 
 *BAAL KAVACH covered in **Divya Bhaskar**, highlighting the innovation in child safety technology and community impact.*
 
+<br>
+
 <p align="center">
-  <img width="500" alt="image" src="https://github.com/user-attachments/assets/4f56b704-89b4-4131-abef-e71c791c3501" />
+  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/4f56b704-89b4-4131-abef-e71c791c3501" />
   </p>
 
 ## **Intellectual Property & Security Compliance**
