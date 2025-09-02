@@ -30,7 +30,7 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 
 ## **Hardware Architecture**
 
-<img width="1032" height="624" alt="Components" src="https://github.com/user-attachments/assets/3f2af77f-0c09-4d34-bab3-44f2d963ca6d" />
+<img width="623" height="400" alt="Components-removebg-preview" src="https://github.com/user-attachments/assets/0a7ca933-a10b-4825-90f7-c0c06f62a8a5" />
 
 ### **Key Components**
 
