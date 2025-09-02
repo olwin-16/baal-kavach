@@ -1,7 +1,3 @@
-# **BAAL KAVACH: Child Tracking & Monitoring Device**
-
-<br>
-
 <img width="905" height="274" alt="logo" src="https://github.com/user-attachments/assets/27070681-d052-4d5f-8bda-fc55ea981661" />
 
 <br>
