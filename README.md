@@ -29,8 +29,6 @@ The system transcends smartphone limitations by offering:
 By embedding the device into everyday child accessories like school bags, **BAAL KAVACH** provides a practical, scalable, and privacy-conscious child safety platform uniquely suited to Indian families and school environments.
 
 ## **Hardware Architecture**
-<br>
-<img width="971" height="624" alt="Components" src="https://github.com/user-attachments/assets/030020da-4020-429f-893b-6b39d16332bf" />
 
 ### **Key Components**
 
