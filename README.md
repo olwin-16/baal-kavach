@@ -56,7 +56,7 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 | <img src="https://github.com/user-attachments/assets/ebb0fb5e-1937-4c64-be65-cbd5b3d54319" width="600" /> | <img src="https://github.com/user-attachments/assets/e8ade32e-bfb2-4448-83ac-c7a394b3db7c" width="800" /> | <img src="https://github.com/user-attachments/assets/6414d0e8-7d10-4ceb-b362-5e7b83193a11" width="800" /> |
 
 ## System Workflow
-
+<br>
 <p align="center">
   <img width="1000" alt="Steps" src="https://github.com/user-attachments/assets/c1eae50d-46c1-4791-9446-ab0a6f3a4220" />
   </p>
@@ -66,6 +66,7 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 - **Frontend**: React-based UI for real-time child location display, history maps, route tracking, and emergency alert management.
 - **Backend**: Node.js/Express server facilitates device data ingestion, API endpoints for mobile/web clients.
 - **Database**: MongoDB stores geolocation history, user profiles, and device states securely.
+<br>
 
 | Home           | Login          | Products       | Cart           | My Orders      | 
 |----------------|----------------|----------------|----------------|----------------|
