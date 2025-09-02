@@ -58,7 +58,7 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 ## System Workflow
 
 <p align="center">
-  <img width="800" alt="Steps" src="https://github.com/user-attachments/assets/c1eae50d-46c1-4791-9446-ab0a6f3a4220" />
+  <img width="1000" alt="Steps" src="https://github.com/user-attachments/assets/c1eae50d-46c1-4791-9446-ab0a6f3a4220" />
   </p>
 
 ## **Software Architecture (MERN Stack Web Portal)**
