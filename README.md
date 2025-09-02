@@ -20,11 +20,7 @@ The system transcends smartphone limitations by offering:
 
 **BAAL KAVACH** seamlessly fits into daily child accessories like school bags and aligns with school policies, delivering practical, secure, and scalable safety monitoring for families.
 
-<br>
-
-<img width="3024" height="4032" alt="main_banner_bg_sm" src="https://github.com/user-attachments/assets/7d623bf4-4066-4fc6-b8f2-ac7775327339" />
-
-<br> 
+<img width="400" alt="main_banner_bg_sm" src="https://github.com/user-attachments/assets/7d623bf4-4066-4fc6-b8f2-ac7775327339" />
 
 By embedding the device into everyday child accessories like school bags, **BAAL KAVACH** provides a practical, scalable, and privacy-conscious child safety platform uniquely suited to Indian families and school environments.
 
@@ -45,7 +41,5 @@ By embedding the device into everyday child accessories like school bags, **BAAL
   
 | Front View                       | Back View                        | Side View                       |
 |---------------------------------|---------------------------------|--------------------------------|
-| <img width="1049" height="742" alt="9" src="https://github.com/user-attachments/assets/ebb0fb5e-1937-4c64-be65-cbd5b3d54319" />
- | <img width="1230" height="689" alt="14" src="https://github.com/user-attachments/assets/e8ade32e-bfb2-4448-83ac-c7a394b3db7c" />
- | <img width="1017" height="580" alt="15" src="https://github.com/user-attachments/assets/6414d0e8-7d10-4ceb-b362-5e7b83193a11" />
- |
+| <img src="https://github.com/user-attachments/assets/ebb0fb5e-1937-4c64-be65-cbd5b3d54319" width="300" /> | <img src="https://github.com/user-attachments/assets/e8ade32e-bfb2-4448-83ac-c7a394b3db7c" width="300" /> | <img src="https://github.com/user-attachments/assets/6414d0e8-7d10-4ceb-b362-5e7b83193a11" width="300" /> |
+
