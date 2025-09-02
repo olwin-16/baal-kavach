@@ -21,7 +21,7 @@ The system transcends smartphone limitations by offering:
 <br>
 
 <p align="center">
-  <img width="993" height="1041" alt="main_banner_bg_sm - Copy" src="https://github.com/user-attachments/assets/7b04eb74-2e59-429e-9d46-50e7fcf9d06b" />
+  <img width="500" alt="main_banner_bg_sm - Copy" src="https://github.com/user-attachments/assets/7b04eb74-2e59-429e-9d46-50e7fcf9d06b" />
   </p>
 
 <br> 
@@ -45,5 +45,5 @@ By embedding the device into everyday child accessories like school bags, **BAAL
   
 | Front View                       | Back View                        | Side View                       |
 |---------------------------------|---------------------------------|--------------------------------|
-| <img src="https://github.com/user-attachments/assets/ebb0fb5e-1937-4c64-be65-cbd5b3d54319" width="300" /> | <img src="https://github.com/user-attachments/assets/e8ade32e-bfb2-4448-83ac-c7a394b3db7c" width="300" /> | <img src="https://github.com/user-attachments/assets/6414d0e8-7d10-4ceb-b362-5e7b83193a11" width="300" /> |
+| <img src="https://github.com/user-attachments/assets/ebb0fb5e-1937-4c64-be65-cbd5b3d54319" width="500" /> | <img src="https://github.com/user-attachments/assets/e8ade32e-bfb2-4448-83ac-c7a394b3db7c" width="500" /> | <img src="https://github.com/user-attachments/assets/6414d0e8-7d10-4ceb-b362-5e7b83193a11" width="500" /> |
 
