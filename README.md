@@ -21,7 +21,7 @@ The system transcends smartphone limitations by offering:
 <br>
 
 <p align="center">
-  <img width="2848" height="1399" alt="Software Flowchart-2025-04-19-124629" src="https://github.com/user-attachments/assets/fadae3f9-efc1-46e7-b201-e14bdf4c4fb8" />
+  <img width="2500" height="1399" alt="Software Flowchart-2025-04-19-124629" src="https://github.com/user-attachments/assets/fadae3f9-efc1-46e7-b201-e14bdf4c4fb8" />
   </p>
 
 <br> 
