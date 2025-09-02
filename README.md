@@ -45,5 +45,19 @@ By embedding the device into everyday child accessories like school bags, **BAAL
   
 | Front View                       | Back View                        | Side View                       |
 |---------------------------------|---------------------------------|--------------------------------|
-| <img src="https://github.com/user-attachments/assets/ebb0fb5e-1937-4c64-be65-cbd5b3d54319" width="650" /> | <img src="https://github.com/user-attachments/assets/e8ade32e-bfb2-4448-83ac-c7a394b3db7c" width="800" /> | <img src="https://github.com/user-attachments/assets/6414d0e8-7d10-4ceb-b362-5e7b83193a11" width="800" /> |
+| <img src="https://github.com/user-attachments/assets/ebb0fb5e-1937-4c64-be65-cbd5b3d54319" width="600" /> | <img src="https://github.com/user-attachments/assets/e8ade32e-bfb2-4448-83ac-c7a394b3db7c" width="800" /> | <img src="https://github.com/user-attachments/assets/6414d0e8-7d10-4ceb-b362-5e7b83193a11" width="800" /> |
 
+
+## **Software Architecture (MERN Stack Web Portal)**
+
+- **Frontend**: React-based UI for real-time child location display, history maps, route tracking, and emergency alert management.
+- **Backend**: Node.js/Express server facilitates device data ingestion, API endpoints for mobile/web clients.
+- **Database**: MongoDB stores geolocation history, user profiles, and device states securely.
+
+| Home           | Login          | Products       | Cart           | My Orders      | About Us       |
+|----------------|----------------|----------------|----------------|----------------|----------------|
+| <img width="1280" height="701" alt="image" src="https://github.com/user-attachments/assets/1733743d-eae7-4797-bbd5-13323e82dbc5" /> | <img width="1280" height="702" alt="image" src="https://github.com/user-attachments/assets/bbd47795-6a13-485d-a947-548ebacfe093" /> | <img width="1280" height="701" alt="image" src="https://github.com/user-attachments/assets/1fb0d7de-623d-450b-b406-028f1d1f348e" /> | <img width="1280" height="699" alt="image" src="https://github.com/user-attachments/assets/1b53a7c3-2429-4e51-bddd-be419c2a6fd8" /> | <img width="1279" height="700" alt="image" src="https://github.com/user-attachments/assets/8eaca38a-3be4-4982-aaa5-8a575727fac8" /> | <img width="1280" height="700" alt="image" src="https://github.com/user-attachments/assets/c3417586-f545-47b0-b382-b826431d3775" /> |
+
+| Dashboard      | Dashboard Location Map | Contact Us    | Lifecycle | Work Flow              |
+|----------------|------------------------|--------------|-----------------------|----------------|----------------|
+| <img width="1280" height="701" alt="image" src="https://github.com/user-attachments/assets/41832b58-3282-45aa-a5af-ad5cf5f6a6b8" /> | <img width="1280" height="699" alt="image" src="https://github.com/user-attachments/assets/cbb76c29-6843-49d5-8b6d-7e06a54e3d0b" /> | <img width="1280" height="701" alt="image" src="https://github.com/user-attachments/assets/0b18c694-d692-4391-8eae-39350fab3bed" /> | <img width="1280" height="703" alt="image" src="https://github.com/user-attachments/assets/71662eae-5d36-4f4d-ab23-f0b4cfb0c287" /> | <img width="1280" height="700" alt="image" src="https://github.com/user-attachments/assets/e8c5533d-2ae6-40d0-b3ec-69f7196bbdd3" /> |
