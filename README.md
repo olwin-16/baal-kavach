@@ -45,7 +45,9 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 
 ## Video Demonstration
 
-<a href="https://youtu.be/oVxxKt-42K8?si=YZpx2336I1ODqVJx" target="_blank">Click Watch Video (Right-click > Open in new tab to keep this page open)</a>
+<a href="https://youtu.be/oVxxKt-42K8?si=YZpx2336I1ODqVJx" target="_blank">Watch Video</a>
+
+<br>
   
 | Front View                       | Back View                        | Side View                       |
 |---------------------------------|---------------------------------|--------------------------------|
