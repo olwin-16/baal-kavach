@@ -24,8 +24,6 @@ The system transcends smartphone limitations by offering:
 
 By embedding the device into everyday child accessories like school bags, **BAAL KAVACH** provides a practical, scalable, and privacy-conscious child safety platform uniquely suited to Indian families and school environments.
 
-<br>
-
 ## **Hardware Architecture**
 
 ### **Key Components**
@@ -41,6 +39,12 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 - **Screw-Mounted Variant**: Anti-tampering design ideal for young children
 - **Portable Variant**: Lightweight, discreet, suitable for older kids
 
+## **Software Architecture (MERN Stack Web Portal)**
+
+- **Frontend**: React-based UI for real-time child location display, history maps, route tracking, and emergency alert management.
+- **Backend**: Node.js/Express server facilitates device data ingestion, API endpoints for mobile/web clients.
+- **Database**: MongoDB stores geolocation history, user profiles, and device states securely.
+
 ## Video Demonstration
 
 <a href="https://youtu.be/oVxxKt-42K8?si=YZpx2336I1ODqVJx" target="_blank">Watch Video</a>
@@ -50,12 +54,6 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 <p align="center">
   <img width="1000" alt="Steps" src="https://github.com/user-attachments/assets/c1eae50d-46c1-4791-9446-ab0a6f3a4220" />
   </p>
-
-## **Software Architecture (MERN Stack Web Portal)**
-
-- **Frontend**: React-based UI for real-time child location display, history maps, route tracking, and emergency alert management.
-- **Backend**: Node.js/Express server facilitates device data ingestion, API endpoints for mobile/web clients.
-- **Database**: MongoDB stores geolocation history, user profiles, and device states securely.
 
 ## Achievement
 
