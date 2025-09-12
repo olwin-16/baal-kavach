@@ -26,10 +26,6 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 
 <br>
 
-<p align="center">
-  <img width="400" alt="main_banner_bg_sm - Copy" src="https://github.com/user-attachments/assets/74a28662-ee81-4b07-8db3-f7ea5b25e1f5" />
-  </p>
-
 ## **Hardware Architecture**
 
 ### **Key Components**
@@ -49,12 +45,6 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 
 <a href="https://youtu.be/oVxxKt-42K8?si=YZpx2336I1ODqVJx" target="_blank">Watch Video</a>
 
-<br>
-  
-| Front View                       | Back View                        | Side View                       |
-|---------------------------------|---------------------------------|--------------------------------|
-| <img src="https://github.com/user-attachments/assets/ebb0fb5e-1937-4c64-be65-cbd5b3d54319" width="600" /> | <img src="https://github.com/user-attachments/assets/e8ade32e-bfb2-4448-83ac-c7a394b3db7c" width="800" /> | <img src="https://github.com/user-attachments/assets/6414d0e8-7d10-4ceb-b362-5e7b83193a11" width="800" /> |
-
 ## System Workflow
 <br>
 <p align="center">
@@ -66,15 +56,6 @@ By embedding the device into everyday child accessories like school bags, **BAAL
 - **Frontend**: React-based UI for real-time child location display, history maps, route tracking, and emergency alert management.
 - **Backend**: Node.js/Express server facilitates device data ingestion, API endpoints for mobile/web clients.
 - **Database**: MongoDB stores geolocation history, user profiles, and device states securely.
-<br>
-
-| Home           | Login          | Products       | Cart           | My Orders      | 
-|----------------|----------------|----------------|----------------|----------------|
-| <img width="1280" height="701" alt="image" src="https://github.com/user-attachments/assets/1733743d-eae7-4797-bbd5-13323e82dbc5" /> | <img width="1280" height="702" alt="image" src="https://github.com/user-attachments/assets/bbd47795-6a13-485d-a947-548ebacfe093" /> | <img width="1089" height="518" alt="image" src="https://github.com/user-attachments/assets/257c2c5b-e9d0-453b-a6b1-176105589f3b" /> | <img width="972" height="417" alt="image" src="https://github.com/user-attachments/assets/97a005af-83d6-4d3a-b914-eb798cebb149" /> | <img width="706" height="430" alt="image" src="https://github.com/user-attachments/assets/703785bc-88bf-4231-a485-32f2d8903aef" /> |
-
-| Dashboard      | Dashboard Location Map | Contact Us   | System Workflow             | About Us       |
-|----------------|------------------------|--------------|-----------------------|----------------|
-| <img width="988" height="581" alt="image" src="https://github.com/user-attachments/assets/1806fe6e-de6d-4f92-a9a9-e9e993fc7e5e" /> | <img width="1280" height="699" alt="image" src="https://github.com/user-attachments/assets/cbb76c29-6843-49d5-8b6d-7e06a54e3d0b" /> | <img width="1037" height="474" alt="image" src="https://github.com/user-attachments/assets/7334909e-fa81-4632-ab93-d55181566197" /> | <img width="1070" height="608" alt="image" src="https://github.com/user-attachments/assets/58596665-4417-4fc3-9bdd-add7bbef930c" /> | <img width="887" height="497" alt="image" src="https://github.com/user-attachments/assets/78b91db2-d2d7-4b08-801a-10f6bea56964" /> |
 
 ## Achievement
 
